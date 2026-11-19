@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+presence-monitor/presence.env
+presence-monitor/*.env
+.zbx-pg-hml
+nomeia-hml-postgresql.conf
+*.bak*
+*.before-*
+dashboard-*.json
